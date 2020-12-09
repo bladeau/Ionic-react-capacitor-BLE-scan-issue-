@@ -1,0 +1,17 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ble-ios-issue",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "server": {
+    "url": "http://172.18.143.103:8100",
+    "cleartext": true
+  }
+}

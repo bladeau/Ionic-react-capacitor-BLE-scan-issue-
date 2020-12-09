@@ -1,0 +1,7 @@
+{
+  "name": "ble-ios-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
